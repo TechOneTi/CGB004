@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CGB004.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "TipoExec=1"
+    }
+  }
+}
